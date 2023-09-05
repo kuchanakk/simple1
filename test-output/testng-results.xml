@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-05T14:23:26Z" name="Default suite" finished-at="2023-09-05T14:24:54Z" duration-ms="88634">
+    <groups>
+    </groups>
+    <test started-at="2023-09-05T14:23:26Z" name="Default test" finished-at="2023-09-05T14:24:54Z" duration-ms="88634">
+      <class name="ecom.simplemavemproj1.PopitemsTest">
+        <test-method is-config="true" signature="openbrow()[pri:0, instance:ecom.simplemavemproj1.PopitemsTest@3403e2ac]" started-at="2023-09-05T14:23:26Z" name="openbrow" finished-at="2023-09-05T14:23:38Z" duration-ms="12058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrow -->
+        <test-method signature="laptoptest()[pri:0, instance:ecom.simplemavemproj1.PopitemsTest@3403e2ac]" started-at="2023-09-05T14:23:38Z" name="laptoptest" finished-at="2023-09-05T14:23:57Z" duration-ms="19009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laptoptest -->
+        <test-method is-config="true" signature="clodebrowser()[pri:0, instance:ecom.simplemavemproj1.PopitemsTest@3403e2ac]" started-at="2023-09-05T14:23:57Z" name="clodebrowser" finished-at="2023-09-05T14:23:59Z" duration-ms="2040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clodebrowser -->
+        <test-method is-config="true" signature="openbrow()[pri:0, instance:ecom.simplemavemproj1.PopitemsTest@3403e2ac]" started-at="2023-09-05T14:23:59Z" name="openbrow" finished-at="2023-09-05T14:24:07Z" duration-ms="8125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrow -->
+        <test-method signature="spktest()[pri:0, instance:ecom.simplemavemproj1.PopitemsTest@3403e2ac]" started-at="2023-09-05T14:24:07Z" name="spktest" finished-at="2023-09-05T14:24:23Z" duration-ms="16308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spktest -->
+        <test-method is-config="true" signature="clodebrowser()[pri:0, instance:ecom.simplemavemproj1.PopitemsTest@3403e2ac]" started-at="2023-09-05T14:24:23Z" name="clodebrowser" finished-at="2023-09-05T14:24:25Z" duration-ms="2001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clodebrowser -->
+        <test-method is-config="true" signature="openbrow()[pri:0, instance:ecom.simplemavemproj1.PopitemsTest@3403e2ac]" started-at="2023-09-05T14:24:25Z" name="openbrow" finished-at="2023-09-05T14:24:37Z" duration-ms="11111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrow -->
+        <test-method signature="tabletest()[pri:0, instance:ecom.simplemavemproj1.PopitemsTest@3403e2ac]" started-at="2023-09-05T14:24:37Z" name="tabletest" finished-at="2023-09-05T14:24:52Z" duration-ms="15858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tabletest -->
+        <test-method is-config="true" signature="clodebrowser()[pri:0, instance:ecom.simplemavemproj1.PopitemsTest@3403e2ac]" started-at="2023-09-05T14:24:52Z" name="clodebrowser" finished-at="2023-09-05T14:24:54Z" duration-ms="2064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clodebrowser -->
+      </class> <!-- ecom.simplemavemproj1.PopitemsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
